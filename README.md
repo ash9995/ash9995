@@ -7,14 +7,26 @@ I'm Aisha Rashid Alshammari, a mobile app developer with a passion for creating 
 - 🛠 I’m currently working on the **Wasel App**, a project focused on seamless communication for DHH (Deaf and Hard of Hearing) individuals using AI technology.
 - 🌱 I’m continually enhancing my knowledge in iOS development and exploring new frameworks and tools.
 - 💬 Ask me about **iOS development** and **app design**.
-- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/aisha-alshammari)
+- 📫 How to reach me: [LinkedIn](www.linkedin.com/in/aisha-rashid-alshammari-1a5700250)
 - ⚡ Fun fact: I thrive on solving complex problems, and each bug fixed is a step closer to a perfect app!
 
 ## 📚 Projects
 
-- **Gasgo App**: An innovative application to locate the nearest gas stations with comprehensive station information and services, featuring turn-by-turn directions using Apple Maps.
-- **Jadeela**: An AI-powered app that detects hair type and provides a personalized hair routine and product recommendations.
-- **CodeHive**: An app designed to facilitate portfolio creation for developers, making the process straightforward and efficient.
+● **GasGo App**: An app for facilitating finding services available at gas stations.
+
+● **Esaham App**: A planting app designed to Track your plant growth, access valuable gardening resources, and leverage AI to diagnose and treat plant issues
+
+● **Raheeb App**: a transformative app designed for your mental wellness journey
+
+● **Jadeela App**: an app that uses AI to detect your hair type and creating personalized routines
+
+● **IHAYDRATE App**: an app that helps you count you water intake by you personal info working on wahtchOs
+
+● **CODEHIVE App**: ap app that helps developers organize there protifolio seamlessly working on macOs
+
+● **Emojenary adveture**: a fun engaging game that make you guess the names of moves games ets with emojes in short
+
+● **Wasel**: an app that help the deaf and hard hearing people to easly comunicate useing AI hand gesture to text 
 
 ## 💻 What I Do
 
@@ -29,11 +41,7 @@ I'm Aisha Rashid Alshammari, a mobile app developer with a passion for creating 
 - Completed training at the Apple Developer Academy as an app developer.
 - Developed the **Wasel App**, aimed at improving communication for DHH individuals using AI.
 - Successfully completed a Six Sigma course, enhancing my project management and quality assurance skills.
-- Obtained a bachelor's degree in software engineering and currently pursuing further specialization in Information Security.
-
-## Connect with Me
-
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/aisha-alshammari)
+- Obtained a bachelor's degree in software engineering 
 
 ## Languages and Tools
 
