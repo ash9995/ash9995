@@ -7,7 +7,7 @@ I'm Aisha Rashid Alshammari, a mobile app developer with a passion for creating 
 - 🛠 I’m currently working on the **Wasel App**, a project focused on seamless communication for DHH (Deaf and Hard of Hearing) individuals using AI technology.
 - 🌱 I’m continually enhancing my knowledge in iOS development and exploring new frameworks and tools.
 - 💬 Ask me about **iOS development** and **app design**.
-- 📫 How to reach me:[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/aisha-alshammari)
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/aisha-rashid-alshammari-1a5700250/)
 
 - ⚡ Fun fact: I thrive on solving complex problems, and each bug fixed is a step closer to a perfect app!
 
