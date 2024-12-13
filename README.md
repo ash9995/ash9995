@@ -11,6 +11,17 @@ Hello there! I'm Aisha Alshammari, a passionate app developer who loves turning 
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/aisha-rashid-alshammari-1a5700250/)
 - ⚡ Fun fact: I thrive on solving complex problems, and each bug fixed is a step closer to a perfect app!
 
+## Languages and Tools
+
+![Swift](https://img.shields.io/badge/-Swift-orange?style=flat&logo=swift)
+![Xcode](https://img.shields.io/badge/-Xcode-blue?style=flat&logo=xcode)
+![Firebase](https://img.shields.io/badge/-Firebase-yellow?style=flat&logo=firebase)
+![CoreML](https://img.shields.io/badge/-CoreML-green?style=flat&logo=apple)
+![Git](https://img.shields.io/badge/-Git-red?style=flat&logo=git)
+![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat&logo=github)
+![Figma](https://img.shields.io/badge/-Figma-purple?style=flat&logo=figma)
+
+
 ## 📚 Projects
 
 ● **GasGo App**: An app for facilitating finding services available at gas stations.
@@ -43,14 +54,3 @@ Hello there! I'm Aisha Alshammari, a passionate app developer who loves turning 
 - Developed the **Wasel App**, aimed at improving communication for DHH individuals using AI.
 - Successfully completed a Six Sigma course, enhancing my project management and quality assurance skills.
 - Obtained a bachelor's degree in software engineering 
-
-## Languages and Tools
-
-![Swift](https://img.shields.io/badge/-Swift-orange?style=flat&logo=swift)
-![Xcode](https://img.shields.io/badge/-Xcode-blue?style=flat&logo=xcode)
-![Firebase](https://img.shields.io/badge/-Firebase-yellow?style=flat&logo=firebase)
-![CoreML](https://img.shields.io/badge/-CoreML-green?style=flat&logo=apple)
-![Git](https://img.shields.io/badge/-Git-red?style=flat&logo=git)
-![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat&logo=github)
-![Figma](https://img.shields.io/badge/-Figma-purple?style=flat&logo=figma)
-
