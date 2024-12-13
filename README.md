@@ -1,14 +1,14 @@
-# Hi there 👋 Welcome to my GitHub!
+# Welcome to My Digital Playground 🎢
 
-I'm Aisha Rashid Alshammari, a mobile app developer with a passion for creating innovative and user-friendly apps. Specializing in Swift, I'm always eager to learn new technologies and improve my skills.
+Hello there! I'm Aisha Alshammari, a passionate app developer who loves turning ideas into reality through code. With a knack for creating innovative and user-friendly apps, I specialize in iOS development using Swift. Dive into my projects and join me on this exciting journey of exploration and innovation!
 
 ## About Me
 
-- 🛠 I’m currently working on the **Wasel App**, a project focused on seamless communication for DHH (Deaf and Hard of Hearing) individuals using AI technology.
+- 🛠 I’m currently working with **GeoSa** on a **3D Interactive GeoExplorer**. Stay tuned for updates!
+- ✅ I have completed the **Wasel App**, a project focused on seamless communication for DHH (Deaf and Hard of Hearing) individuals using AI technology.
 - 🌱 I’m continually enhancing my knowledge in iOS development and exploring new frameworks and tools.
 - 💬 Ask me about **iOS development** and **app design**.
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/aisha-rashid-alshammari-1a5700250/)
-
 - ⚡ Fun fact: I thrive on solving complex problems, and each bug fixed is a step closer to a perfect app!
 
 ## 📚 Projects
